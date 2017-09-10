@@ -1,0 +1,23 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promilo/asycnawaitpractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/promilo/asycnawaitpractice/issues"
+  },
+  "homepage": "https://github.com/promilo/asycnawaitpractice#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
